@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Phosphor",
+        "path": "phosphor-regular",
+        "icon": "phosphor"
+    },
+    {
+        "name": "Phosphor - Bold",
+        "path": "phosphor-bold",
+        "icon": "phosphor"
+    },
+    {
+        "name": "Phosphor - Duotone",
+        "path": "phosphor-duotone",
+        "icon": "phosphor"
+    },
+    {
+        "name": "Phosphor - Fill",
+        "path": "phosphor-fill",
+        "icon": "phosphor"
+    },
+    {
+        "name": "Phosphor - Light",
+        "path": "phosphor-light",
+        "icon": "phosphor"
+    },
+    {
+        "name": "Phosphor - Thin",
+        "path": "phosphor-thin",
+        "icon": "phosphor"
+    },
+    {
+        "name": "Lucide",
+        "path": "lucide",
+        "icon": "lucide"
+    },
+    {
+        "name": "Material Symbols - Outlined",
+        "path": "material-symbols-outlined",
+        "icon": "material-symbols"
+    },
+    {
+        "name": "Material Symbols - Rounded",
+        "path": "material-symbols-rounded",
+        "icon": "material-symbols"
+    },
+    {
+        "name": "Material Symbols - Sharp",
+        "path": "material-symbols-sharp",
+        "icon": "material-symbols"
+    },
+    {
+        "name": "Cryptocurrency - Monochrome",
+        "path": "cryptocurrency-monochrome",
+        "icon": "cryptocurrency-monochrome"
+    },
+    {
+        "name": "Cryptocurrency - Color",
+        "path": "cryptocurrency-color",
+        "icon": "cryptocurrency-color"
+    },
+    {
+        "name": "Flags",
+        "path": "flags",
+        "icon": "flags"
+    },
+    {
+        "name": "Circle Flags",
+        "path": "circle-flags",
+        "icon": "circle-flags"
+    }
+]
